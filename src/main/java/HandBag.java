@@ -10,6 +10,7 @@ public class HandBag extends Bag{
 
     @Override
     public void enhance() {
+
         super.increaseCapacity(1);
     }
 }
